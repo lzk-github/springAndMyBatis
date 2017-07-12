@@ -13,8 +13,8 @@ this is a picture next:
 + i am third ul->li
 + i am forth ul->li
 
-1 i am first ol->li
-2 i am second ol->li
-3 i am third ol->li
-4 i am forth ol->li
+1. i am first ol->li
+2. i am second ol->li
+3. i am third ol->li
+4. i am forth ol->li
 
